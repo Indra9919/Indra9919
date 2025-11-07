@@ -30,7 +30,7 @@
 | **Data Viz** | matplotlib, seaborn, plotly, Power BI, Streamlit |
 | **Database / Cloud** | MySQL, PostgreSQL, AWS, GCP |
 | **Version Control** | Git, GitHub, GitHub Actions |
-| **Other** | Docker 🐳, JupyterLab, VS Code, MLflow |
+| **Other** | JupyterLab, VS Code, MLflow |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,mysql,tensorflow,pytorch,aws,docker,vscode,linux" />

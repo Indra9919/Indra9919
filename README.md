@@ -113,4 +113,3 @@ Interactive dashboard for forecasting future sales using time series analysis.
   <i>Feel free to connect or collaborate — let's make data meaningful!</i>
 </p>
 
-![Footer](assets/footer.png)

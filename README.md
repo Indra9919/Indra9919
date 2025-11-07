@@ -25,7 +25,7 @@
 
 | Category | Tools |
 |-----------|-------|
-| **Languages** | Python 🐍, SQL 💾, R 📈 |
+| **Languages** | Python 🐍, SQL 💾|
 | **Libraries / ML** | pandas, numpy, scikit-learn, XGBoost, TensorFlow, PyTorch |
 | **Data Viz** | matplotlib, seaborn, plotly, Power BI, Streamlit |
 | **Database / Cloud** | MySQL, PostgreSQL, AWS, GCP |

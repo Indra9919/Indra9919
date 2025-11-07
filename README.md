@@ -40,7 +40,7 @@
 
 ## 💼 Featured Projects  
 
-### 🧠 [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)
+### 🧠 [Customer Churn Prediction](https://github.com/Indra9919/Customer-Churn-Prediction-)
 Predicting customer churn using classification models to help reduce customer loss.  
 **Tech:** Python, scikit-learn, XGBoost, Streamlit  
 ![Churn Demo](assets/churn-demo.gif)

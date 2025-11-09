@@ -30,7 +30,7 @@
 | **Data Viz** | matplotlib, seaborn, plotly, Power BI, Streamlit |
 | **Database / Cloud** | MySQL, PostgreSQL, AWS, GCP |
 | **Version Control** | Git, GitHub, GitHub Actions |
-| **Other** | JupyterLab, VS Code, MLflow |
+| **Other** | JupyterLab, VS Code, MLflow,Docker |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,mysql,tensorflow,pytorch,aws,docker,vscode,linux" />
@@ -98,7 +98,7 @@ Interactive dashboard for forecasting future sales using time series analysis.
 
 🎵 *Current Focus:* NLP, Deep Learning, and MLOps  
 🌱 *Learning Goal:* Build deployable ML pipelines on cloud  
-📈 *Hobby:* Creating data stories with visual insights  
+📈 *Hobby:* Creating data stories with visual insights 
 
 ---
 
